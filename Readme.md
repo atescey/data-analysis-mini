@@ -32,8 +32,6 @@ This project is designed to develop a simple **binary classification model** usi
 ![Label Distribution](./plots/plot1.png)
 
 ### ROC Curve
-![ROC Curve](./plots/roc_curve.png)
 
 ### Feature Importance
-![Feature Importance](./plots/feature_importance.png)
 
